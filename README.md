@@ -14,6 +14,7 @@ I am a passionate DevOps Engineer. I love designing, planning, and building high
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic)
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=plastic)
 ![Flux](https://img.shields.io/badge/-Flux-5468FF?style=plastic)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=plastic)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=plastic)
