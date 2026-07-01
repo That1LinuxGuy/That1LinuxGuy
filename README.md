@@ -6,7 +6,7 @@ I am a passionate DevOps Engineer. I love designing, planning, and building high
 
 | Project | Summary | Monthly Commits |
 |---------|---------|-----------------|
-| Homelab |K3S cluster with using NixOS| | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/that1linuxguy/homelab)|
+| Homelab |K3S cluster with using NixOS| | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/That1LinuxGuy/homelab)|
 
 <!--
 **That1LinuxGuy/That1LinuxGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
