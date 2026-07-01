@@ -4,9 +4,9 @@ I am a passionate DevOps Engineer. I love designing, planning, and building high
 
 ### I am currently working on:
 
-| Project | Summary | Pull Requests |
-|---------|---------|---------------|
-| Homelab |My K3S cluster with using NixOS| | ![Pull Requests](https://img.shields.io/github/issues-pr/That1LinuxGuy/Homelab?style=flat-square&labelColor=343b41)|
+| Project | Summary | Commits |
+|---------|---------|---------|
+| Homelab |My K3S cluster with using NixOS| | ![Commits](https://img.shields.io/github/commits-誠/That1LinuxGuy/Homelab?style=flat-square&labelColor=343b41)
 
 <!--
 **That1LinuxGuy/That1LinuxGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
