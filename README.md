@@ -8,7 +8,7 @@ I am a passionate DevOps Engineer. I love designing, planning, and building high
 |---------|---------|---------------|
 | Homelab |K3S cluster with using NixOS| | ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/That1LinuxGuy/Homelab?style=plastic)|
 | MelodeeDesigns | Website for a local Business |![GitHub commit activity](https://img.shields.io/github/commit-activity/t/That1LinuxGuy/MelodeeDesigns?style=plastic)| 
-| nixpkgs | maintaining Newelle package |![GitHub commit activity](https://img.shields.io/github/commit-activity/t/That1LinuxGuy/nixpkgs?style=plastic)| 
+| Projects | Random code projects |![GitHub commit activity](https://img.shields.io/github/commit-activity/t/That1LinuxGuy/Projecs?style=plastic)| 
 
 ### Languages and Tools:
 
